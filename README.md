@@ -1,3 +1,4 @@
 # Analysis-of-Vacation-Rental-Market-Project
 Analysis of the Vacation Rental Market in Manhattan - I analyzed Airbnb data for Manhattan to guide a client’s investment in vacation rentals. The project involved data cleaning, identifying popular neighborhoods and property types, calculating occupancy rates, and estimating annual revenue for potential investments. I provided actionable insights to help prioritize property selection and optimize rental income.
 Using the Nyc Airbnb Data insights were curated for different metrics. Occupation statistics And Profit were showcased to provide vital information on the potential success of certain properties. 
+I have placed both the project file and images of keen insights in this repository. These images showcase results through pivot tables after neccessary data cleaning and aggregation.
